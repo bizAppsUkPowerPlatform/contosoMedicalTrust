@@ -1,0 +1,15 @@
+- adx_name: Search
+  adx_pageid: 88f35c54-f355-ed11-9562-6045bd0ea8e5
+  adx_sitemarkerid: 3ef35c54-f355-ed11-9562-6045bd0ea8e5
+- adx_name: Profile
+  adx_pageid: 86f35c54-f355-ed11-9562-6045bd0ea8e5
+  adx_sitemarkerid: 3ff35c54-f355-ed11-9562-6045bd0ea8e5
+- adx_name: Home
+  adx_pageid: 81f35c54-f355-ed11-9562-6045bd0ea8e5
+  adx_sitemarkerid: 40f35c54-f355-ed11-9562-6045bd0ea8e5
+- adx_name: Page Not Found
+  adx_pageid: 84f35c54-f355-ed11-9562-6045bd0ea8e5
+  adx_sitemarkerid: 41f35c54-f355-ed11-9562-6045bd0ea8e5
+- adx_name: Access Denied
+  adx_pageid: 7ff35c54-f355-ed11-9562-6045bd0ea8e5
+  adx_sitemarkerid: 42f35c54-f355-ed11-9562-6045bd0ea8e5
