@@ -88,6 +88,9 @@
   importsequencenumber: 5
 - adx_name: Authentication/OpenAuth/LinkedIn/ConsumerSecret
   adx_sitesettingid: 5bf35c54-f355-ed11-9562-6045bd0ea8e5
+- adx_name: PWAFeature
+  adx_sitesettingid: 5c698bdf-4698-ed11-aad1-000d3a272cea
+  adx_value: '{"status":"disable"}'
 - adx_description: Denies use of the portal to minors without parental consent. By default, it is set to false.
   adx_name: Authentication/Registration/DenyMinorsWithoutParentalConsent
   adx_sitesettingid: 5cf35c54-f355-ed11-9562-6045bd0ea8e5
